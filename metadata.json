@@ -1,0 +1,6 @@
+{
+  "name": "Venture Client ID Portal",
+  "description": "Customer registration and Client ID confirmation portal for seamless support executive verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
